@@ -1,0 +1,1 @@
+amazon → 顧客名、ID、PASS、メアド、住所
