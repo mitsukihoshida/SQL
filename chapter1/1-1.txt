@@ -1,0 +1,6 @@
+(A)ファイル
+(B)DBMS(database management system)
+(C)SQL文
+(D)RDB(リレーショナルデータベース)
+(E)列
+(F)行
