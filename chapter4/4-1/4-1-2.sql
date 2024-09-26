@@ -1,0 +1,3 @@
+SELECT * FROM 注文履歴
+WHERE 日付>='2024-01-01' AND 日付<='2024-01-31'
+ORDER BY 商品名;
