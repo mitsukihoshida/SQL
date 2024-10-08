@@ -7,3 +7,4 @@ UPDATE 在庫
 SET 残数 = 残数-12
 WHERE 商品番号='0008';
 COMMIT;
+SELECT * FROM 受注 ;
