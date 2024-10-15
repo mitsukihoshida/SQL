@@ -1,0 +1,5 @@
+SELECT A.イベント番号, A.イベント名称, A.前提イベント番号, B.イベント名称 AS 前提イベント名称
+FROM イベント AS A
+JOIN イベント AS B
+ON A.前提イベント番号=B.イベント番号
+WHERE A.前提イベント番号 IS NOT NULL;
