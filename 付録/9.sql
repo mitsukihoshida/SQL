@@ -1,0 +1,3 @@
+SELECT ID, 名称, MP
+FROM パーティー
+WHERE HP > 100; 

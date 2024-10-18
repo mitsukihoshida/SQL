@@ -1,0 +1,2 @@
+UPDATE パーティー
+SET HP=ROUND(HP*1.3, 0), MP=ROUND(HP*1.3, 0);

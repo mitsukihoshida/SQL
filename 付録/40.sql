@@ -1,0 +1,1 @@
+SELECT TRUNK(777*0.7, 0)
